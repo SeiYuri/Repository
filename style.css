@@ -1,0 +1,23 @@
+h1 {
+    font-weight: bold;
+    font-style: italic;
+    color: white;
+    font-family: Times;
+    font-size: 24px;
+    text-align: center;
+}
+
+body {
+    background-color: #99e6ff;
+    font-family: 'Verdana';
+    font-size: 12px;
+}
+
+p {
+    text-align: center;
+}
+
+li {
+    font-variant: small-caps;
+    font-size: 14px;
+}
